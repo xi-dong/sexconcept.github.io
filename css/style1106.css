@@ -221,7 +221,7 @@ header.main-header{height: 250px;}
 .heading .title{font-size: 70px;color: #fff;-webkit-transition: all .3s ease-in-out;-moz-transition: all .3s ease-in-out;transition: all .3s ease-in-out;}
 .heading .title:hover{letter-spacing: 10px;}
 .box-content.box-style-1{background: #fff;}
-.box-content.box-style-2 {background-image: url(../img/slider_1.JPG);background-position: center center;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;color:#fff;position: relative;}
+.box-content.box-style-2 {background-image: url(../img/slider_1.jpg);background-position: center center;background-repeat: no-repeat;background-attachment: fixed;background-size: cover;color:#fff;position: relative;}
 .box-content.box-style-2:before {content:"";display: block;height: 100%;position: absolute;top: 0;left: 0;width: 100%;visibility: visible;background-color: rgba(0, 0, 0, .58);}
 .box-content.box-style-3{background: #F4F4F4 url(../img/pattern3.png) no-repeat center center;}
 .box-content.box-style-4{background: url(../img/testimonial-bg.jpg) fixed center center;color:#fff;}
